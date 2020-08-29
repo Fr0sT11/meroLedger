@@ -17,3 +17,13 @@
 
 5. Then in the terminal return back to the root directory using `cd..` and run:
 ### `npm run dev`
+
+## Additional Scripts:
+
+### `npm run server`
+Runs only the backend server
+
+### `npm run client`
+Runs only the frontend client
+
+
